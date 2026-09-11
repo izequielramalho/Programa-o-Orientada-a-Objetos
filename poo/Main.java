@@ -1,4 +1,4 @@
-package estudos.Izequiel.orientadaObjetos;
+package estudos.Izequiel.orientadaObjetos.poo;
 
 public class Main {
 
